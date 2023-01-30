@@ -9,4 +9,4 @@ Bnv3bnv3 versions 3 : connexion entre plusieurs clients et 1 serveur
  
 ```
 addrClient.sin_addr.s_addr=inet_addr("127.0.0.1");
-```²
+```
