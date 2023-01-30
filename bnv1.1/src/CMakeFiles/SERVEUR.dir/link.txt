@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/SERVEUR.dir/serveur.c.o -o ../exe/SERVEUR  ../library/libmylib.a 

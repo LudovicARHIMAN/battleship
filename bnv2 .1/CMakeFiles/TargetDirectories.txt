@@ -1,0 +1,9 @@
+/home/kali/Desktop/battleship/bnv2 .1/CMakeFiles/edit_cache.dir
+/home/kali/Desktop/battleship/bnv2 .1/CMakeFiles/rebuild_cache.dir
+/home/kali/Desktop/battleship/bnv2 .1/library/CMakeFiles/mylib.dir
+/home/kali/Desktop/battleship/bnv2 .1/library/CMakeFiles/edit_cache.dir
+/home/kali/Desktop/battleship/bnv2 .1/library/CMakeFiles/rebuild_cache.dir
+/home/kali/Desktop/battleship/bnv2 .1/src/CMakeFiles/CLIENT.dir
+/home/kali/Desktop/battleship/bnv2 .1/src/CMakeFiles/SERVEUR.dir
+/home/kali/Desktop/battleship/bnv2 .1/src/CMakeFiles/edit_cache.dir
+/home/kali/Desktop/battleship/bnv2 .1/src/CMakeFiles/rebuild_cache.dir

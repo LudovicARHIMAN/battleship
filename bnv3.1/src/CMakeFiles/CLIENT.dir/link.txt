@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/CLIENT.dir/client.c.o -o ../exe/CLIENT  ../library/libmylib.a 
