@@ -1,4 +1,4 @@
-#Jeux de la bataille navale en C 
+# Jeux de la bataille navale en C 
 
 Bnv1 version 1 : connexion entre 1 client et 1 serveur
 Bnv2bnv2 versions 2 : Taille de la grille de jeux variables (taille max 20 x 20)
